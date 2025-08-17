@@ -1,10 +1,23 @@
-
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Where%20Innovation%20Meets%20Excellence&descAlignY=55&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20there!%20I'm%20Raghav%20Ashisht&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20Open%20Source%20Contributor&descAlignY=55&descSize=14"/>
 </div>
 
 <div align="center">
+  <h2>🚀 Transforming Ideas into Digital Reality</h2>
+  <p>
+    <em>Passionate about building innovative solutions that make a difference</em><br>
+    <strong>🎯 Specializing in AI/ML, Web Development & Mobile Applications</strong>
+  </p>
+  
+  <p>
+    <a href="https://raghavashisht13.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-4FC08D?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="mailto:your-email@domain.com">
+      <img src="https://img.shields.io/badge/📧_Contact-Let's_Connect-FF6B6B?style=for-the-badge&logoColor=white" alt="Contact"/>
+    </a>
+  </p>
+</div>
   <img 
     src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hi+%F0%9F%91%8B%2C+I'm+Raghav+Vashisht;Innovative+CS+Student;Hackathon+Leader+%7C+AI+Enthusiast" 
     alt="Typing Animation"
